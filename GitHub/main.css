@@ -1,0 +1,94 @@
+#logo{
+    width: 60px;
+     height: 60px;
+}
+
+#contact{
+    color: hsl(0, 93%, 42%);
+    font-size: 20px;
+    padding: 10px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-weight: bold;
+
+}
+
+#note{
+    color: grey;
+    font-size: 15px;
+    float: left;
+    padding: 15px;
+
+}
+
+
+
+.content{
+    color:rgb(148, 147, 147);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.btn1 {
+    background: #fc7a00;
+    background-image: -webkit-linear-gradient(top, #fc7a00, #fc7a00);
+    background-image: -moz-linear-gradient(top, #fc7a00, #fc7a00);
+    background-image: -ms-linear-gradient(top, #fc7a00, #fc7a00);
+    background-image: -o-linear-gradient(top, #fc7a00, #fc7a00);
+    background-image: linear-gradient(to bottom, #fc7a00, #fc7a00);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    -webkit-box-shadow: 0px 1px 3px #666666;
+    -moz-box-shadow: 0px 1px 3px #666666;
+    box-shadow: 0px 1px 3px #666666;
+    font-family: Georgia;
+    color: rgb(158, 51, 6);
+    font-size: 20px;
+    padding: 15px;
+    border: solid #ffffff 7px;
+    text-decoration: none;
+    width: 250px;
+    height: 70px;
+    font-weight: bold;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .btn2 {
+    background: #e3ddd7;
+    background-image: -webkit-linear-gradient(top, #e3ddd7, #e3ddd7);
+    background-image: -moz-linear-gradient(top, #e3ddd7, #e3ddd7);
+    background-image: -ms-linear-gradient(top, #e3ddd7, #e3ddd7);
+    background-image: -o-linear-gradient(top, #e3ddd7, #e3ddd7);
+    background-image: linear-gradient(to bottom, #e3ddd7, #e3ddd7);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    -webkit-box-shadow: 0px 1px 3px #ffffff;
+    -moz-box-shadow: 0px 1px 3px #ffffff;
+    box-shadow: 0px 1px 3px #ffffff;
+    font-family: Georgia;
+    color: #a7a2a1;
+    font-size: 20px;
+    padding: 15px;
+    border: solid #f5f5f5 7px;
+    text-decoration: none;
+    width: 250px;
+    height: 70px;
+    font-weight: bold;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
